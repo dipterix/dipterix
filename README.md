@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm currently researching on the Human Intrancranial Electroencephalography at Perelman School of Medicine, University of Pennsylvania. I'm also the maintainer of the following packages.
+I'm currently researching on the ✨ _Human Intrancranial Electroencephalography_ ✨ at Perelman School of Medicine, University of Pennsylvania. I'm also the maintainer of the following packages.
+
+![image](https://github.com/dipterix/dipterix/assets/8163576/36c9f2df-2210-4ba1-ba5e-b1fa1eec8603)
 
 <!--
 **dipterix/dipterix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
