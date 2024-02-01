@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 |[![readNSx](https://img.shields.io/github/r-package/v/dipterix/readNSx/master?logo=github&style=flat-square&color=white&label=readNSx)](https://github.com/dipterix/readNSx)|[![r-universe](https://rave-ieeg.r-universe.dev/badges/readNSx?color=blue&style=classic)](https://rave-ieeg.r-universe.dev/readNSx)|[![R-CMD-check](https://github.com/dipterix/readNSx/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/dipterix/readNSx/actions/workflows/R-CMD-check.yaml)|[BlackRock NEV/NSx reader](https://dipterix.org/readNSx/)|
 |[![dipsaus](https://img.shields.io/github/r-package/v/dipterix/dipsaus/master?logo=github&style=flat-square&color=white&label=dipsaus)](https://github.com/dipterix/dipsaus)|[![r-universe](https://rave-ieeg.r-universe.dev/badges/dipsaus?color=blue&style=classic)](https://rave-ieeg.r-universe.dev/dipsaus)|[![R-CMD-check](https://github.com/dipterix/dipsaus/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/dipterix/dipsaus/actions/workflows/R-CMD-check.yaml)|[Utility functions](https://dipterix.org/dipsaus/)|
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dipterix&theme=github-light&border_radius=20&border=EBE3C9&background=FFFFFF00)](https://rave.wiki)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dipterix&theme=github-light&border_radius=20&exclude_days=Sun%2CSat&border=EBE3C9&background=FFFFFF00&excludeDaysLabel=8E8B8B)](https://rave.wiki)
 
 </div>
