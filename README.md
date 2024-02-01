@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 
 
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dipterix&theme=burnt-neon&border_radius=20&border=EBE3C9)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dipterix&theme=burnt-neon&border_radius=20&border=EBE3C9&background=FFFFFF00)](https://dipterix.org)
 
 </div>
