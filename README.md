@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently researching on the Human Intrancranial Electroencephalography at Perelman School of Medicine, University of Pennsylvania. I'm also the maintainer of the following packages.
+
 <!--
 **dipterix/dipterix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
