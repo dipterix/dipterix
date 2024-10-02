@@ -2,7 +2,7 @@
 
 I am studying the ✨ _Human Intrancranial Electroencephalography_ ✨ at Perelman School of Medicine, University of Pennsylvania. 
 
-I am also the maintainer of [RAVE](https://rave.wiki) project. Here's RAVE being highlighted at 2024 Congress of Neurological Surgeons meeting.
+I am also the maintainer of [RAVE](https://rave.wiki) project. Here's RAVE being highlighted at 2024 Congress of Neurological Surgeons meeting in Houston, TX, and 2024 NIH BRAIN tool maker at society for Neuroscience meeting in Chicago, IL.
 
 [<img width="1248" alt="image" src="https://github.com/user-attachments/assets/a75ec856-729a-4731-8da2-97fc282bd429">](https://rave.wiki)
 
