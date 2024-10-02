@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently researching on the ✨ _Human Intrancranial Electroencephalography_ ✨ at Perelman School of Medicine, University of Pennsylvania. 
+I am studying the ✨ _Human Intrancranial Electroencephalography_ ✨ at Perelman School of Medicine, University of Pennsylvania. 
 
 I'm also a maintainer who works on the [RAVE](https://rave.wiki) project.
 
