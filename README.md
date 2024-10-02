@@ -4,7 +4,7 @@ I'm currently researching on the ✨ _Human Intrancranial Electroencephalography
 
 I'm also a maintainer who works on the [RAVE](https://rave.wiki) project.
 
-<img width="1248" alt="image" src="https://github.com/user-attachments/assets/a75ec856-729a-4731-8da2-97fc282bd429">
+[<img width="1248" alt="image" src="https://github.com/user-attachments/assets/a75ec856-729a-4731-8da2-97fc282bd429">](https://rave.wiki)
 
 <!--
 **dipterix/dipterix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
